@@ -2,12 +2,12 @@ import uuid
 def generate_test_data(test_case):
     if test_case == "object_meters":
         return [
-            (44, None),  # object_id, date
-            (44, "2024-01-04T16:41:24"),
+            (84221, None),  # object_id, date
+            (85150, "2024-01-04T16:41:24"),
         ]
     elif test_case == "company_indications":
         return [
-            (44, "2024-01-04T16:41:24+0200"),  # object_id, date
+            (85150, "2024-01-04T16:41:24+0200"),  # object_id, date
             (None, None),
         ]
     elif test_case == "company_balance":

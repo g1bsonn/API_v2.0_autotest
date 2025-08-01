@@ -11,7 +11,7 @@ class APIClient:
         data = {
             "client_id": client_id,
             "client_secret": client_secret,
-            "scope": "user object meter"
+            "scope": "user.readonly object.readonly meter.readonly"
         }
         response = requests.post(url, data=data)
         if response.status_code == 200:
