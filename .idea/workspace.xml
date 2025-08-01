@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e65660d-d87c-4b63-85a4-55e31946d018" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_auth.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_company_balance.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_company_balance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_company_indications.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_company_indications.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_company_objects.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_company_objects.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_company_sensors.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_company_sensors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_meter_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_meter_types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_object_meters.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_object_meters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/api_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/api_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/helpers.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,12 +16,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;g1bsonn&quot;
-  }
-}</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/g1bsonn/sauresAPI_v2_autotest.git&quot;,
@@ -46,19 +31,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\artem\PycharmProjects\sauresAPI_v2_autotest\tests" />
-    </key>
-  </component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="sauresAPI_v2_autotest" />
