@@ -1,4 +1,6 @@
 import uuid
+
+
 def generate_test_data(test_case):
     if test_case == "object_meters":
         return [
@@ -17,3 +19,11 @@ def generate_test_data(test_case):
         ]
     else:
         return []
+
+def validate_uuid4(token: str) -> bool:
+    """Проверяет, соответствует ли строка формату UUID4."""
+    try:
+        uuid_obj = uuid.UUID(token, version=4)
+        return str(uuid_obj) == token
+    except ValueError:
+        return False
